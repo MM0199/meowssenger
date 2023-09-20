@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "468760344655",
+    "project_id": "meowssenger-chat-app",
+    "storage_bucket": "meowssenger-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468760344655:android:7a4b4c08dec44c1ab1d23a",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZxfQEqVqH1_FbZfjM3sniRIyDTJLOHQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
